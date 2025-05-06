@@ -169,7 +169,7 @@ section {
 .product-card:hover {
     transform: translateY(-10px) scale(1.05);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-    overflow: auto;
+    overflow: visible;
 }
 
 .product-image img {
